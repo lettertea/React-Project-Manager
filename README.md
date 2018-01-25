@@ -3,7 +3,7 @@ Live demo [here](https://basic-react-todo.surge.sh/).
 
 A React web application that organizes a list of items and its category the user inputs into the state.
 # Installation
-- Clone the Repository
+- Clone the Repository.
 ```
 $ git clone https://github.com/nashkenazy/React-Project-Manager.git
 ```
